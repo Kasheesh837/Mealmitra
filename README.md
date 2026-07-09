@@ -1,8 +1,8 @@
-# Annasamarpan - Food Donation & Distribution Platform
+# Mealmitra - Food Donation & Distribution Platform
 
 > **"No meal should go wasted, no hand should go empty"**
 
-Annasamarpan is a comprehensive food donation and distribution platform that connects food donors, volunteers, and needy recipients. Built with Flask (Python) backend, MongoDB database, and modern HTML/CSS with Tailwind CSS frontend.
+Mealmitra is a comprehensive food donation and distribution platform that connects food donors, volunteers, and needy recipients. Built with Flask (Python) backend, MongoDB database, and modern HTML/CSS with Tailwind CSS frontend.
 
 ## 🌟 Features
 
@@ -68,7 +68,7 @@ Annasamarpan is a comprehensive food donation and distribution platform that con
 ## 📁 Project Structure
 
 ```
-annasamarpan/
+Mealmitra/
 ├── app.py                 # Main Flask application
 ├── requirements.txt      # Python dependencies
 ├── env_example.txt       # Environment variables template
